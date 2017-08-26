@@ -1,2 +1,2 @@
-<? php
+<?php
 echo "I Am RoBot";
